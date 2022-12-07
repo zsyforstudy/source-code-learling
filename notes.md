@@ -28,6 +28,6 @@ if (typeof value[Symbol.iterator] === 'function') {
 其中ava表示使用的是ava测试框架
 
 
-*参考文章:[调试源码](https://jishuin.proginn.com/p/763bfbd6e43c)   [package.json命令解析](package.json文件scripts命令解析)*
+*参考文章:[调试源码](https://jishuin.proginn.com/p/763bfbd6e43c)&emsp[package.json命令解析](package.json文件scripts命令解析)*
 
 3. 一些文件用途
