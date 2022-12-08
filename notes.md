@@ -4,7 +4,7 @@
 
 ## 学习知识
 
-**+ 2.Symbol.iterator**
+###### 2.Symbol.iterator
 
 在index.js中有如下代码，判断是否可迭代
 
@@ -16,7 +16,7 @@ if (typeof value[Symbol.iterator] === 'function') {
 
 *不了解迭代器与生成器的可参考这篇文章：[javascript迭代器与生成器](https://blog.csdn.net/m0_62336865/article/details/125585842)*
 
-**+ 2.如何测试**
+###### 2.如何测试
  在`package.json`中有如下代码
 
  ```json
