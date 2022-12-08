@@ -4,7 +4,7 @@
 
 ## 学习知识
 
-1. Symbol.iterator
+**+ 2.Symbol.iterator**
 
 在index.js中有如下代码，判断是否可迭代
 
@@ -16,7 +16,7 @@ if (typeof value[Symbol.iterator] === 'function') {
 
 *不了解迭代器与生成器的可参考这篇文章：[javascript迭代器与生成器](https://blog.csdn.net/m0_62336865/article/details/125585842)*
 
-2. 如何测试
+**+ 2.如何测试**
  在`package.json`中有如下代码
 
  ```json
@@ -27,7 +27,7 @@ if (typeof value[Symbol.iterator] === 'function') {
   
  所以我们执行 `npm test`时其实执行了三个任务
  其中ava表示使用的是ava测试框架
- 
+
  **xo**
  > JavaScript/TypeScript linter (ESLint wrapper) with great defaults JavaScript/TypeScript linter（ESLint 包装器）具有很 的 默 认值
 
