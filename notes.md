@@ -29,8 +29,10 @@ if (typeof value[Symbol.iterator] === 'function') {
  其中ava表示使用的是ava测试框架
  **xo**
  > JavaScript/TypeScript linter (ESLint wrapper) with great defaults JavaScript/TypeScript linter（ESLint 包装器）具有很 的 默 认值
+
  **ava**
  > Node.js test runner that lets you develop with confidence
+ 
  **tsd**
  > Check TypeScript type definitions 检查 TypeScript 类型定义
   
