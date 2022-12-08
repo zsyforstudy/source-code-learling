@@ -4,7 +4,7 @@
 
 ## 学习知识
 
-###### 2.Symbol.iterator
+###### 1.Symbol.iterator
 
 在index.js中有如下代码，判断是否可迭代
 
